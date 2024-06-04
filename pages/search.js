@@ -13,16 +13,16 @@ const PAGE_SIZE = 3;
 
 const prices = [
   {
-    name: "200₹ to 600₹",
-    value: "200-600",
+    name: "20e to 60e",
+    value: "20-60",
   },
   {
-    name: "601₹ to 1200₹",
-    value: "601-1200",
+    name: "61e to 120e",
+    value: "60-120",
   },
   {
-    name: "1201₹ to 1600₹",
-    value: "1201-1600",
+    name: "121e to 160e",
+    value: "121-160",
   },
 ];
 
